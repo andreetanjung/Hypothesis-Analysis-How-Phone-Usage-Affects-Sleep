@@ -14,3 +14,9 @@ Here is the outline of the notebook:
 - [ ] Exploratory Data Analysis
 - [ ] Question answering
 #### Result and Evaluation
+![pvalue](https://github.com/andreetanjung/Hypothesis-Analysis-How-Phone-Usage-Affects-Sleep/assets/123824152/e3bfd3f1-9aa3-4d65-9822-91276e5926b5)
+<sub> P-value visualization <sub>
+
+As we can observe, the p-value falls outside the confidence interval area, indicating a significant impact of phone usage on the sleep cycle.
+#### Tableau Visualization
+Visualization link https://public.tableau.com/app/profile/andrian5182/viz/milestones_16771450599950/Dashboard1 
